@@ -1,4 +1,8 @@
 ## Hi there 👋
+- 💻 Desenvolvedor Backend;
+- 📚 Em busca de novos aprendizados e desafios;
+
+  
 <div align="rigth">
   <a href="https://github.com/jprezer">  
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jprezer&layout=compact&langs_count=7&theme=dark"/>
