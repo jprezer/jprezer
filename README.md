@@ -5,13 +5,11 @@ Atualmente, estou em constante evolução, aprendendo novas tecnologias e buscan
 ---
 
 ## 📊 Estatísticas do GitHub
-<div align="center" style="display: flex; justify-content: center; gap: 10px;">
-  <a href="https://github.com/jprezer">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jprezer&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  </a>
-  <a href="https://github.com/jprezer">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jprezer&layout=compact&langs_count=6&theme=tokyonight&hide=html,css,jupyter%20notebook"/>
-  </a>
+<div align="center">
+
+| ![Estatísticas](https://github-readme-stats.vercel.app/api?username=jprezer&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&card_width=420) | ![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=jprezer&layout=compact&langs_count=6&theme=tokyonight&hide=html,css,jupyter%20notebook&card_width=320) |
+|---|---|
+
 </div>
 
 ---
