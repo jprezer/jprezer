@@ -24,14 +24,6 @@ Tenho uma mentalidade inquieta, sempre buscando aprender, experimentar e evoluir
 
 ---
 
-## 📘 Atualmente estudando
-<div align="center">
-  <img alt="Flutter" height="50" width="55" style="margin: 0 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" />
-  <img alt="Dart" height="50" width="55" style="margin: 0 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original-wordmark.svg" />
-</div>
-
----
-
 ## ⚙️ Experiências anteriores
 <div align="center">
   <img alt="C#" height="50" width="55" style="margin: 0 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />         
