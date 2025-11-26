@@ -1,43 +1,43 @@
-## 👋 Hi there!  
-Sou um desenvolvedor **Backend** apaixonado por resolver problemas com código e transformar ideias em soluções práticas.  
-Atualmente, estou em constante evolução, aprendendo novas tecnologias e buscando desafios que me façam crescer como profissional. 🚀  
+## 👋 Olá!  
+Sou um desenvolvedor **Backend** focado em resolver problemas reais com código e transformar ideias em soluções práticas.  
+Tenho uma mentalidade inquieta, sempre buscando aprender, experimentar e evoluir a cada projeto. 🚀
 
 ---
 
 ## 📊 Estatísticas do GitHub
 <div align="center">
 
-| ![Estatísticas](https://github-readme-stats.vercel.app/api?username=jprezer&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&card_width=420) | ![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=jprezer&layout=compact&langs_count=6&theme=tokyonight&hide=html,css,jupyter%20notebook&card_width=320) |
+| ![Estatísticas](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=jprezer&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&card_width=420) | ![Linguagens](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=jprezer&layout=compact&langs_count=6&theme=tokyonight&hide=jupyter%20notebook&card_width=320) |
 |---|---|
 
 </div>
 
 ---
 
-## 💼 Atualmente trabalho com
+## 💼 Tecnologias que utilizo atualmente
 <div align="center">
-  <img align="center" alt="Java" height="50" width="55" style="margin: 0 8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />    
-  <img align="center" alt="PostgreSQL" height="50" width="55" style="margin: 0 8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
-  <img align="center" alt="Android Studio" height="50" width="55" style="margin: 0 8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" />
-  <img align="center" alt="Git" height="50" width="55" style="margin: 0 8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+  <img alt="Java" height="50" width="55" style="margin: 0 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
+  <img alt="PostgreSQL" height="50" width="55" style="margin: 0 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
+  <img alt="Android Studio" height="50" width="55" style="margin: 0 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" />
+  <img alt="Git" height="50" width="55" style="margin: 0 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 </div>
 
 ---
 
-## 📘 Estou aprendendo
+## 📘 Atualmente estudando
 <div align="center">
-  <img align="center" alt="Flutter" height="50" width="55" style="margin: 0 8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" />
-  <img align="center" alt="Dart" height="50" width="55" style="margin: 0 8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original-wordmark.svg" />
+  <img alt="Flutter" height="50" width="55" style="margin: 0 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" />
+  <img alt="Dart" height="50" width="55" style="margin: 0 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original-wordmark.svg" />
 </div>
 
 ---
 
-## ⚙️ Conhecimentos anteriores
+## ⚙️ Experiências anteriores
 <div align="center">
-  <img align="center" alt="C#" height="50" width="55" style="margin: 0 8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />         
-  <img align="center" alt="MySQL" height="50" width="55" style="margin: 0 8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-  <img align="center" alt="Python" height="50" width="55" style="margin: 0 8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-  <img align="center" alt="SQLite" height="50" width="55" style="margin: 0 8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" />
+  <img alt="C#" height="50" width="55" style="margin: 0 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />         
+  <img alt="MySQL" height="50" width="55" style="margin: 0 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+  <img alt="Python" height="50" width="55" style="margin: 0 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+  <img alt="SQLite" height="50" width="55" style="margin: 0 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" />
 </div>
 
 ---
@@ -45,10 +45,10 @@ Atualmente, estou em constante evolução, aprendendo novas tecnologias e buscan
 ## 🌐 Contato
 <div align="center">
   <a href="https://www.linkedin.com/in/jpvz" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  </a>  
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
   <a href="https://instagram.com/jp.vz1" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
 </div>
 
