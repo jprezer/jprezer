@@ -7,7 +7,7 @@ Tenho uma mentalidade inquieta, sempre buscando aprender, experimentar e evoluir
 ## 📊 Estatísticas do GitHub
 <div align="center">
 
-| ![Estatísticas](https://github-readme-stats.vercel.app/api?username=jprezer&show_icons=true&theme=tokyonight) | ![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=jprezer&layout=compact&langs_count=6&theme=tokyonight) |
+| ![Estatísticas](https://github-readme-stats.vercel.app/api?username=jprezer&show_icons=true&theme=graywhite) | ![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=jprezer&layout=compact&langs_count=6&theme=graywhite) |
 |---|---|
 
 </div>
